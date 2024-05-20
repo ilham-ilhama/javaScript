@@ -1,0 +1,6 @@
+"user":{
+    "nom":"baddioui",
+    "prenom":"ilham",
+    "age" :18,
+    "taks":["ajouter","modifier","supprimer"]
+}
