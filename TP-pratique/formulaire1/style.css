@@ -1,0 +1,30 @@
+.container{
+    background-color: rgba(113, 218, 239, 0.457);
+    border: solid;
+    width: 50%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+}
+label{
+ width: 200px;
+ color: rgba(0, 136, 255, 0.642);
+}
+input{
+    width: 200px;
+    height: 1.7em;
+    background-color: transparent;
+    outline: none;
+    border: 1px solid   rgba(0, 136, 255, 0.571);
+    position: relative;
+    left: 80px;
+    color: white;
+}
+
+
